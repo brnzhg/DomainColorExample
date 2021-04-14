@@ -6,13 +6,8 @@ dependencies:
   - pip
   - pip:
     - cplot
-  - mypy
-  - jupyter
-  - jupyter_contrib_nbextensions
-  - jupyterlab
-  - ipywidgets
-  - ipympl
   - matplotlib
   - numpy
-  - lenses
-  - toolz
+  #- jupyter
+  #- jupyter_contrib_nbextensions
+  #- jupyterlab
